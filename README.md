@@ -8,4 +8,4 @@
 - Scalability: Suitable for small to enterprise-level networks.
 - Built to enhance IT operations, troubleshoot issues, and ensure reliable network performance.
 
-[Cat Scan II Big Dog.pdf](https://github.com/user-attachments/files/18319763/Cat.Scan.II.Big.Dog.pdf)
+
