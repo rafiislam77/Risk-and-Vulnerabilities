@@ -1,4 +1,4 @@
-# Report on Risk and Vulnerabilities Using Paessler PRTG
+# Network Sensor Monitoring and Attack Detection Using Paessler PRTG
 ### This project leverages Paessler PRTG Network Monitor to provide comprehensive network monitoring and performance insights. It is designed to monitor, visualize, and optimize network infrastructure by tracking key metrics such as uptime, bandwidth usage, and server health. using PRTG we were able to analize and find common Indicator of compromise (IoC). Based on the information we created a report a report on Risk and vulnerabilities.  
 
 ## Key Features
