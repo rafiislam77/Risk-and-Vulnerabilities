@@ -9,3 +9,6 @@
 - Built to enhance IT operations, troubleshoot issues, and ensure reliable network performance.
 
 
+
+
+Network Sensor Monitoring and Attack Detection | <a href="(https://github.com/rafiislam77/Risk-and-Vulnerabilities/blob/main/Cat%20Scan%20II%20Big%20Dog.pdf)">Detection Lab</a>|
